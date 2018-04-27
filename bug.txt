@@ -1,0 +1,1 @@
+in AI version, computer still  places a move if the person win. Also , there is no hard version.
